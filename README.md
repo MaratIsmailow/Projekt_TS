@@ -1,1 +1,1 @@
-# Projekt_TS
+TypeScript_Project
